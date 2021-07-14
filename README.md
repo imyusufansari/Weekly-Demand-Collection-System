@@ -8,8 +8,8 @@ In this Project, MongoDB used as Database for weekly demand collection system.
 
 # MongoDB compass screenshots
 <p align="left">
-  <img width="470" height="300" src="https://github.com/myusufuc/Project_0/blob/main/1%20(1).png" hspace="30">
-  <img width="470" height="300" src="https://github.com/myusufuc/Project_0/blob/main/1%20(2).png" hspace="30">
+  <img width="460" height="300" src="https://github.com/myusufuc/Project_0/blob/main/1%20(1).png" hspace="30">
+  <img width="470" height="300" src="https://github.com/myusufuc/Project_0/blob/main/1%20(2).png" >
 </p>
 
 # MongoDB queries
