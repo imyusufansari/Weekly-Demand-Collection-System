@@ -32,7 +32,6 @@ In this Project, MongoDB used as Database for weekly demand collection system.
       print(i)
    ```
    * show collection with limit
-
 4. count():
    ```
    Weekly_Demand_Collection.find().count()
