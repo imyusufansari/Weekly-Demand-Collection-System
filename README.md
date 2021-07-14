@@ -6,6 +6,12 @@ In this Project, MongoDB used as Database for weekly demand collection system.
 * Json file / document file
 * Jupyter Notebook
 
+# MongoDB compass screenshots
+<p align="left">
+  <img width="600" height="360" src="https://github.com/myusufuc/Project_0/blob/main/1%20(1).png">
+  <img width="600" height="360" src="https://github.com/myusufuc/Project_0/blob/main/1%20(2).png">
+</p>
+
 # MongoDB queries
 1. insert_many():
    ```
@@ -61,9 +67,3 @@ In this Project, MongoDB used as Database for weekly demand collection system.
    Weekly_Demand_Collection.delete_many({"id":1253588,"id":1747636,"id":1535438,"id": 1463533})
    ```
    * deleting multiple values
-
-# MongoDB compass screenshots
-<p align="left">
-  <img width="720" height="480" src="https://github.com/myusufuc/Project_0/blob/main/1%20(1).png">
-  <img width="720" height="480" src="https://github.com/myusufuc/Project_0/blob/main/1%20(2).png">
-</p>
