@@ -2,7 +2,7 @@
 In this Project, MongoDB used as Database for weekly demand collection system.
 
 # Requirements
-* MongoDB
+* MongoDB & MongoDB Compass
 * Json file / document file
 * Jupyter Notebook
 
