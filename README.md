@@ -61,3 +61,8 @@ In this Project, MongoDB used as Database for weekly demand collection system.
    Weekly_Demand_Collection.delete_many({"id":1253588,"id":1747636,"id":1535438,"id": 1463533})
    ```
    * deleting multiple values
+
+# MongoDB compass
+
+![Screenshot](https://github.com/myusufuc/Project_0/blob/main/1%20(1).png)
+![Screenshot](https://github.com/myusufuc/Project_0/blob/main/1%20(2).png)
