@@ -6,12 +6,6 @@ In this Project, MongoDB used as Database for weekly demand collection system.
 * Json file / document file
 * Jupyter Notebook
 
-# MongoDB compass screenshots
-<p align="left">
-  <img width="400" height="240" src="https://github.com/myusufuc/Project_0/ScreenShot/1%20(1).png">
-  <img width="400" height="240" src="https://github.com/myusufuc/Project_0/ScreenShot/1%20(2).png" >
-</p>
-
 # MongoDB queries
 1. insert_many():
    ```
